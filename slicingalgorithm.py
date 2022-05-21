@@ -1,11 +1,11 @@
 ################################################################################
 #################################IMANIPOURMEYSAM################################
 ##   In this code we have 4 functions, first one will return a list of lines  ##
-##   of the given triangle, the second will check if there lines of triangle  ## 
+##   of the given triangle, the second will check if th lines of triangle     ## 
 ##   have interaction with the given height, the third one will find the x,y  ##
 ##   coordinate of the line with the given height if there is an interaction  ##
 ##   and finally the 4th function use the 3 first functions to return a list  ##
-##   like the list asked in the pdf guide.                                    ##
+##   like of coordinate of these interaction points.                          ##
 ################################################################################
 ################################################################################
 
